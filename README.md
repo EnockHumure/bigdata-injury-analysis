@@ -56,7 +56,7 @@ Comprehensive data preprocessing including:
 - Created risk levels (Low, Medium, High, Critical)
 
 **Screenshots:**
-- [sceenshots/1st file of the injury statics coloumn.png]
+- https://github.com/EnockHumure/bigdata-injury-analysis/blob/main/sceenshots/1st%20file%20of%20the%20injury%20statics%20coloumn.png
 - [sceenshots/2nd file of the data previes and analyse.png]
 - [sceenshots/file 3-techenical analysis.png]
 - [sceenshots/data preview file3.png]
