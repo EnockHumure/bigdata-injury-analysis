@@ -1,15 +1,22 @@
-................FINAL EXAM...............
+##................FINAL EXAM...............
 
-Student: Humure Enock
-ID: 27394
-Identification: AUCA - IT - Software Engineering
-Course: INSY 8413 | Introduction to Big Data Analytics
-Faculty of Information Technology - AUCA
-Lecturer: Eric Maniraguha
-Sector: Health
-Research Question: Can we predict workplace injury patterns?
+#Student: Humure Enock
 
-# Workplace Injury Analysis Project
+**ID:** 27394
+
+**Identification:** AUCA - IT - Software Engineering
+
+**Course:** INSY 8413 | Introduction to Big Data Analytics
+
+**Faculty of Information Technology - AUCA**
+
+**Lecturer:** Eric Maniraguha
+
+**Sector:** Health
+
+**Research Question:** Can we predict workplace injury patterns?
+
+## Workplace Injury Analysis Project
 
 ## Table of Contents
 1. [Project Overview](#project-overview)
@@ -44,6 +51,7 @@ The goal is to help companies make workplaces safer by understanding injury patt
 - **Python:** Data cleaning and machine learning
 - **Power BI:** Interactive dashboard creation
 - **Jupyter Notebook:** Code development and analysis
+- **Git:** control version
 
 ## Project Structure
 
@@ -56,12 +64,14 @@ Comprehensive data preprocessing including:
 - Created risk levels (Low, Medium, High, Critical)
 
 **Screenshots:**
-- https://github.com/EnockHumure/bigdata-injury-analysis/blob/main/sceenshots/1st%20file%20of%20the%20injury%20statics%20coloumn.png
-- [sceenshots/2nd file of the data previes and analyse.png]
-- [sceenshots/file 3-techenical analysis.png]
-- [sceenshots/data preview file3.png]
-- [sceenshots/risk analysis file4.png]
-- [sceenshots/file5- cleaned data(2).png]
+-<img width="1318" height="704" alt="1st file of the injury statics coloumn" src="https://github.com/user-attachments/assets/21a1b4d0-175d-4a5e-b53a-cf034793f622" />
+
+-<img width="1324" height="701" alt="2nd file of the data previes and analyse" src="https://github.com/user-attachments/assets/5cc737c3-63d9-441d-a691-7a273e0c647c" />
+
+-<img width="1321" height="638" alt="file 3-techenical analysis" src="https://github.com/user-attachments/assets/97a39b21-d947-4ae6-8552-e6f4d9064ede" />
+-<img width="1293" height="668" alt="data preview file3" src="https://github.com/user-attachments/assets/ad0f3da1-96b4-4086-84d3-29466b03aaf4" />
+-<img width="1310" height="503" alt="risk analysis file4" src="https://github.com/user-attachments/assets/9ed96baa-4958-4af3-9889-a824f9ea9f19" />
+-<img width="1299" height="688" alt="file5- cleaned data(2)" src="https://github.com/user-attachments/assets/67650a63-e6dd-40d0-bf73-3478653ded09" />
 
 ### Exploratory Data Analysis (EDA) 
 Created comprehensive data visualizations including a complete dashboard 
@@ -76,15 +86,28 @@ and 8 individual graphs to understand data patterns.
 - Strong correlation between industry type and injury frequency
 
 **Visualization Screenshots:**
-- Combined EDA Dashboard: [sceenshots/EDA 1completion of data analytics-combination.png]
-- Time Trends Line Chart: [sceenshots/graph1-eda.png]
-- Risk Level Pie Chart: [sceenshots/graph2-eda.png]
-- Top Industries Bar Chart: [sceenshots/graph3-eda.png]
-- Correlation Heatmap: [sceenshots/graph4-eda.png]
-- Top Occupations Analysis: [sceenshots/graph5-eda.png]
-- Claims Distribution Histogram: [sceenshots/graph6-eda.png]
-- Risk Level Box Plots: [sceenshots/graph7-eda.png]
-- Scatter Plot Analysis: [sceenshots/graph8.png]
+- Combined EDA Dashboard:
+- <img width="734" height="702" alt="EDA 1completion of data analytics-combination" src="https://github.com/user-attachments/assets/b35ebed2-f5f5-48f8-82d2-f8151ed0b301" />
+
+- Time Trends Line Chart:
+-  <img width="1281" height="691" alt="graph1-eda" src="https://github.com/user-attachments/assets/8959aea1-c7d0-4929-a603-53c3a0429966" />
+
+- Risk Level Pie Chart:
+- <img width="1109" height="687" alt="graph2-eda" src="https://github.com/user-attachments/assets/6266bacb-2028-4d96-b311-fce98b577158" />
+
+- Top Industries Bar Chart:
+-  <img width="1102" height="666" alt="graph3-eda" src="https://github.com/user-attachments/assets/299ecb32-d83d-499f-af97-0b86d79019d8" />
+  
+- Correlation Heatmap:
+- <img width="1064" height="708" alt="graph4-eda" src="https://github.com/user-attachments/assets/ebb09c63-b8a7-4366-8c8c-908076b47523" />
+
+- Top Occupations Analysis:
+- <img width="1055" height="628" alt="graph5-eda" src="https://github.com/user-attachments/assets/0b5bd844-3086-4cc8-9329-db2e724fa99f" />
+
+- Claims Distribution Histogram: <img width="1028" height="589" alt="graph6-eda" src="https://github.com/user-attachments/assets/184b9b95-dbb4-4861-af2f-85b2e60959a2" />
+
+- Risk Level Box Plots: <img width="1037" height="622" alt="graph7-eda" src="https://github.com/user-attachments/assets/8aefe18d-c757-4cd6-9062-47318d942532" />
+- Scatter Plot Analysis: <img width="1009" height="638" alt="graph8" src="https://github.com/user-attachments/assets/77a7ce6c-0541-441d-b44f-8a45aaa6daf6" />
 
 ### Machine Learning
 Built AI models to predict injury risks:
@@ -94,9 +117,13 @@ Built AI models to predict injury risks:
 3. **Ensemble Model:** Combines multiple models for better predictions
 
 **Screenshots:**
--Random Forest: [sceenshots/machine learning and it graph1.png]
--K-Means Clustering:[sceenshots/ml-graph2 .png]
--Ensemble Model:[sceenshots/ml-graph3 clustering.png]
+-Random Forest: 
+<img width="1262" height="653" alt="machine learning and it graph1" src="https://github.com/user-attachments/assets/682e5c31-688a-437e-99dc-cce1f1dd1993" />
+
+-K-Means Clustering:
+<img width="717" height="512" alt="ml-graph3 clustering" src="https://github.com/user-attachments/assets/20714fc1-6ff9-49cd-976b-76d21ffbb400" />
+
+-Ensemble Model: <img width="734" height="613" alt="ml-graph2 " src="https://github.com/user-attachments/assets/f56a4eee-1f1f-4ad9-89f1-e1a574658537" />
 
 ### Power BI Dashboard
 Created a 3-page interactive dashboard:
@@ -106,9 +133,11 @@ Created a 3-page interactive dashboard:
 3. **Risk Analysis:** Interactive filters and risk levels
 
 **Screenshots:**
-- Overview: [sceenshots/power bi overview dashboard.png]
-- Industry Analysis: [sceenshots/power bi industry analysis.png]
-- Risk Analysis: [sceenshots/power bi risk analysis.png]
+- Overview: <img width="1306" height="746" alt="power bi overview dashboard" src="https://github.com/user-attachments/assets/2906a77a-e038-4f92-ab5b-1c740a358473" />
+
+- Industry Analysis: <img width="1324" height="753" alt="power bi industry analysis" src="https://github.com/user-attachments/assets/6fb41765-b460-454a-abc9-de11911d0a6c" />
+
+- Risk Analysis: <img width="1323" height="766" alt="power bi risk analysis" src="https://github.com/user-attachments/assets/4b50783d-dd33-4254-b460-44b0d69629d0" />
 
 ## Key Findings
 
@@ -128,16 +157,15 @@ Created a 3-page interactive dashboard:
 ### Python Innovations
 - Custom risk prediction function
 - Ensemble model combining 3 different AI algorithms
-- Automated safety recommendations
+- Automated safety recommendations 
+<img width="1093" height="200" alt="inovation -py" src="https://github.com/user-attachments/assets/ff3a336c-0ae5-4320-b319-fc16bc8e29db" />
 
-**Screenshot:** [sceenshots/inovation -py.png]
 
 ### Power BI Innovations
 - Multi-page navigation
 - Interactive slicers for filtering
 - Industry ranking cards showing highest and lowest risk industries
-
-**Screenshot:** [sceenshots/power bi industry analysis.png]
+<img width="1324" height="753" alt="power bi industry analysis" src="https://github.com/user-attachments/assets/14396b5c-24f1-4d36-a8a6-2dd370dac23d" />
 
 ## Business Recommendations
 
@@ -164,16 +192,20 @@ Created a 3-page interactive dashboard:
 ## Screenshots
 
 ### Python Results
-1. **Data Cleaning:** [sceenshots/file5- cleaned data(2).png]
-2. **EDA Dashboard:** [sceenshots/EDA 1completion of data analytics-combination.png]
-3. **Machine Learning:** [sceenshots/machine learning and it graph1.png]
-4. **Innovation:** [sceenshots/inovation -py.png]
+1. **Data Cleaning:**
+<img width="1299" height="688" alt="file5- cleaned data(2)" src="https://github.com/user-attachments/assets/e18ece88-ca92-4cdd-af7c-e44473f28727" />
+
+2. **EDA Dashboard:**
+  <img width="734" height="702" alt="EDA 1completion of data analytics-combination" src="https://github.com/user-attachments/assets/13b515a6-6218-4bf8-aefc-cd6862a96644" />
+3. **Machine Learning:** <img width="1262" height="653" alt="machine learning and it graph1" src="https://github.com/user-attachments/assets/7fdec768-f7d1-46d6-bc4d-2d5fa7f0762d" />
+
+4. **Innovation:** <img width="1093" height="200" alt="inovation -py" src="https://github.com/user-attachments/assets/c7376f40-b334-4bc8-bbc6-c6d5f738b5d4" />
 
 ### Power BI Results
-1. **Overview Page:** [sceenshots/power bi overview dashboard.png]
-2. **Industry Analysis:** [sceenshots/power bi industry analysis.png]
-3. **Risk Analysis:** [sceenshots/power bi risk analysis.png]
-
+5. **Industry Analysis:**
+<img width="1324" height="753" alt="power bi industry analysis" src="https://github.com/user-attachments/assets/f936a295-1e42-4094-8899-a85150ff3ca0" />
+6. **summary:**
+   <img width="1215" height="670" alt="final summary" src="https://github.com/user-attachments/assets/20575e01-80da-4dfc-8262-c71c0be93430" />
 ## Conclusion
 
 This project successfully analyzed workplace injury patterns using data science and
