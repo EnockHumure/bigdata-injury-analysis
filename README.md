@@ -206,6 +206,12 @@ Created a 3-page interactive dashboard:
 <img width="1324" height="753" alt="power bi industry analysis" src="https://github.com/user-attachments/assets/f936a295-1e42-4094-8899-a85150ff3ca0" />
 6. **summary:**
    <img width="1215" height="670" alt="final summary" src="https://github.com/user-attachments/assets/20575e01-80da-4dfc-8262-c71c0be93430" />
+
+
+   **Here you can use this link for download the dashboard of the power BI** https://drive.google.com/file/d/1ZOZl23If22oqs0FMtc_4_BRxWkkM_xkd/view?usp=sharing
+
+**Here are the folder on my drive you can download it for the checking**
+https://drive.google.com/drive/folders/1EISYa17lObBuu8cvqT9XtjvJRCPLUJSo?usp=drive_link
 ## Conclusion
 
 This project successfully analyzed workplace injury patterns using data science and
