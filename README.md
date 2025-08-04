@@ -32,7 +32,7 @@
 11. [Screenshots](#screenshots)
 12. [Conclusion](#conclusion)
 13. [Acknowledgments](#acknowledgments)
-
+    
 ## Project Overview
 This project analyzes workplace injury data to identify patterns and predict which industries are most dangerous. The analysis combines Python data science techniques with Power BI visualization to create comprehensive insights for workplace safety improvement.
 
