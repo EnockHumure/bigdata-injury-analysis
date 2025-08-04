@@ -212,6 +212,7 @@ Created a 3-page interactive dashboard:
 
 **Here are the folder on my drive you can download it for the checking**
 https://drive.google.com/drive/folders/1EISYa17lObBuu8cvqT9XtjvJRCPLUJSo?usp=drive_link
+here are my power point https://docs.google.com/presentation/d/1mHf1_CentaReFODuXg6UNDdm3iii2Mux/edit?usp=sharing&ouid=102440832029243792060&rtpof=true&sd=true
 ## Conclusion
 
 This project successfully analyzed workplace injury patterns using data science and
